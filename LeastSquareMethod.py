@@ -27,3 +27,4 @@ plt.plot(ff, c = 'green')
 plt.scatter(x, y, s=2, c="red")
 plt.grid(True)
 plt.show()
+amazon 
