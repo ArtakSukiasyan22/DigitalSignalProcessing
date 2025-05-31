@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 
 def f(x):
-    return np.sin(x) + 0.5*x
+    return np.sin(x) + 0.5 * x
 
 
 def df(x):
